@@ -162,3 +162,8 @@ cython_debug/
 # Documentation
 docs/*
 !docs/.gitkeep
+
+# Data
+data/raw/*
+data/interim/*
+data/processed/*

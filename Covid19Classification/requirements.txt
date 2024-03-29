@@ -1,1 +1,7 @@
 hydra-core
+opencv-python
+matplotlib
+numpy
+pandas
+scikit-image
+scipy
