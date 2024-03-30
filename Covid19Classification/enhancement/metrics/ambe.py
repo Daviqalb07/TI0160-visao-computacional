@@ -1,6 +1,6 @@
 import numpy as np
 
-def ambe(image1: np.ndarray, image2: np.ndarray) -> float:
+def absolute_mean_brightness_error(image1: np.ndarray, image2: np.ndarray) -> float:
     i1 = image1.astype(np.float32)
     i2 = image2.astype(np.float32)
 
