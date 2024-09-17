@@ -167,3 +167,4 @@ docs/*
 data/raw/*
 data/interim/*
 data/processed/*
+reports/*
