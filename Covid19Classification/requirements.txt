@@ -3,5 +3,11 @@ opencv-python
 matplotlib
 numpy
 pandas
+scikit-learn
 scikit-image
 scipy
+torch 
+torchvision 
+torchaudio
+segmentation-models-pytorch
+medpy

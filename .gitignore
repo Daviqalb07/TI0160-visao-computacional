@@ -168,3 +168,6 @@ data/raw/*
 data/interim/*
 data/processed/*
 reports/*
+
+# Models
+models/*
