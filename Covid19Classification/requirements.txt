@@ -9,5 +9,6 @@ scipy
 torch 
 torchvision 
 torchaudio
+timm
 segmentation-models-pytorch
 medpy
